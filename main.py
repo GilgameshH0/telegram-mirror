@@ -1,7 +1,7 @@
 from telethon import TelegramClient, events
 import telebot
 
-#брать с сайта телеграмма
+#брать с сайта телеграмма https://my.telegram.org/auth
 api_id = ''
 api_hash = ''
 
